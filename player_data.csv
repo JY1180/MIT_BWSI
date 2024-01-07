@@ -1,0 +1,12 @@
+Action,Action 1,Action 2,Action 3,Action 4,Action 5,Action 6,Action 7,Action 8,Action 9,Action 10,Action 11,Action 12,Action 13,Action 14,Action 15
+skip,0,0,0,1,1,0,0,0,0,0,0,0,1,1,1
+squish,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+scram,0,0,0,0,0,0,1,1,1,1,0,0,0,0,0
+save,1,1,1,0,0,1,0,0,0,0,1,1,0,0,0
+capacity,2,3,4,4,4,5,1,1,1,1,2,3,3,3,3
+suggest,"0, ActionCost.SQUISH","0, ActionCost.SQUISH","0, ActionCost.SQUISH","0, ActionCost.SQUISH","0, ActionCost.SQUISH","0, ActionCost.SQUISH","0, ActionCost.SQUISH","0, ActionCost.SAVE","0, ActionCost.SQUISH","0, ActionCost.SQUISH","0, ActionCost.SAVE","0, ActionCost.SAVE","0, ActionCost.SAVE","0, ActionCost.SQUISH","0, ActionCost.SAVE"
+act,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+info,"0, State.CORPSE","0, State.ZOMBIE","0, State.CORPSE","0, State.CORPSE","0, State.ZOMBIE","0, State.ZOMBIE","0, State.CORPSE","0, State.HEALTHY","0, State.CORPSE","0, State.ZOMBIE","0, State.INJURED","0, State.HEALTHY","0, State.HEALTHY","0, State.CORPSE","0, State.INJURED"
+paramedic,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+protector,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+filter_count,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
